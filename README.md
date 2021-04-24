@@ -1,6 +1,8 @@
 Frenzy
 ===
 
+Particles confined to a sphere navigate an unsteady vector field.
+
 ![Screenshot](https://raw.githubusercontent.com/NathanielWroblewski/frenzy/master/public/images/screenshot.png)
 
 Running locally

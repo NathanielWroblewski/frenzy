@@ -17,3 +17,5 @@ export const HALF_WIDTH = WIDTH/2
 export const HALF_HEIGHT = HEIGHT/2
 
 export const RESOLUTIONS = [0.002, 0.002, 0.004, 0.004, 0.003, 0.003]
+
+export const FPS = 60

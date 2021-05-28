@@ -3,4 +3,4 @@
 // capacity and am not conveying any rights to any intellectual property of any
 // third parties.
 
-export const BLUE = '#1A3657'
+export const PARTICLE = '#D7EEDD'
